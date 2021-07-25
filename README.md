@@ -1,1 +1,1 @@
-#This is a Clone of Craigslist called Bucketlist
+This is a Clone of Craigslist called Bucketlist
